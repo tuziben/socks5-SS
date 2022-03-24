@@ -1,8 +1,7 @@
 {
-    "name": "Socks5 Configurator",
+    "name": "Socks5 Proxy for Shadowsocks",
     "description": "Configure your browser with socks5 proxy",
-    "homepage_url": "https://www.txthinking.com",
-    "version": "2021.04.14",
+    "version": "2022.03.15",
     "background": {
         "service_worker": "background.js"
     },
